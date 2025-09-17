@@ -53,14 +53,14 @@
 }
 
 .external-link {
-  opacity: 0;
+  opacity: 1;
   color: $gray;
-  transition: opacity 1s;
+  transition: opacity 0.3s;
   text-decoration: none;
   font-size: 20px;
   &:hover {
     cursor: pointer;
-    color: $gray
+    color: darken($gray, 15%);
   }
 }
 
@@ -89,9 +89,9 @@
   .cards {
     grid-template-columns: 1fr 1fr;
   }
-  .external-link {
-    opacity: 0;
-  }
+  // .external-link {
+  //   opacity: 0;
+  // }
 }
 
 // Large devices (desktops, 992px and up)
@@ -106,4 +106,32 @@
   .cards {
     grid-template-columns: 1fr 1fr;
   }
+}
+
+.stack {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 12px;
+}
+
+
+.badge {
+  background-color: #f5f5f5;
+  color: #444;
+  font-size: 0.75rem;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.section-divider {
+  border: none;
+  height: 4px;
+  width: 60px;
+  margin: 50px auto;
+  background: #555;
+  border-radius: 50px;
 }
