@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is my personal coding portfolio built with [Middleman](https://middlemanapp.com/).
+This is my personal coding portfolio.
 It’s a site that I’ll use to showcase my projects and progress as a developer.
 
 ## Features
