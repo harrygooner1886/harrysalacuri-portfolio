@@ -16,8 +16,8 @@
 
 - name: lyric_lab
   description: "AI-powered app that transforms user prompts into original, expressive song lyrics."
-  image: lyric_lab.png
-  # url: https://www.google.com
+  image: Lyric_Lab.png
+  url: https://www.google.com
   github: https://github.com/harrygooner1886/lyric_lab
   online: true
   stack:
