@@ -1,3 +1,18 @@
+- name: ScreenVibe
+  description: "ScreenVibe is a React app that helps you pick the perfect movie to match your mood. It features a fun movie quiz, search, streaming availability info, and a theatre-style UI."
+  image: screenvibe.png
+  url: https://screen-vibe.netlify.app
+  github: https://github.com/harrygooner1886/ScreenVibe
+  online: true
+  stack:
+    - React
+    - Vite
+    - JavaScript
+    - CSS
+    - React Router
+    - TMDB API
+    - Netlify
+
 - name: PureComm
   description: "PureComm is a couples-communication app designed to make honest talk simple. It helps partners stay connected with daily mood check-ins, love-language insights, and an AI relationship coach that adapts to your communication style."
   image: purecomm_picture.png
@@ -29,24 +44,3 @@
     - PostgreSQL
     - OpenAI API
     - Bootstrap
-
-# - name: AI Assistant
-#   description: Decent description of the app
-#   image: projects/placeholder.png
-#   url: https://www.google.com
-#   github: https://www.github.com
-#   online: true
-
-# - name: Final project
-#   description: Decent description of the app
-#   image: projects/placeholder.png
-#   url: https://www.google.com
-#   github: https://www.github.com
-#   online: true
-
-# - name: Yelp
-#   description: Decent description of the app
-#   image: projects/placeholder.png
-#   url: https://www.google.com
-#   github: https://www.github.com
-#   online: false
