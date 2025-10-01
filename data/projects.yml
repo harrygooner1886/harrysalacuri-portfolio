@@ -33,7 +33,7 @@
   description: "AI-powered app that transforms user prompts into original, expressive song lyrics."
   image: Lyric_Lab.png
   github: https://github.com/harrygooner1886/lyric_lab
-  online: true
+  online: false
   stack:
     - Ruby on Rails
     - HTML
