@@ -13,6 +13,19 @@
     - TMDB API
     - Netlify
 
+- name: Mission Control
+  description: "A sci-fi themed to-do app built with vanilla JavaScript, HTML, and CSS. Tasks are saved as 'missions' using localStorage for persistence. Designed with smooth animations and a command-center aesthetic."
+  image: Mission_Control_Screenshot.png
+  url: https://mission-control-todo-app.netlify.app/
+  github: https://github.com/harrygooner1886/mission-control_To-do_App
+  online: true
+  stack:
+    - HTML5
+    - CSS3
+    - JavaScript ES6
+    - LocalStorage
+    - Netlify
+
 - name: PureComm
   description: "PureComm is a couples-communication app designed to make honest talk simple. It helps partners stay connected with daily mood check-ins, love-language insights, and an AI relationship coach that adapts to your communication style."
   image: purecomm_picture.png
