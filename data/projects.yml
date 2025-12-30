@@ -1,5 +1,6 @@
 - name: ScreenVibe
   description: "ScreenVibe is a React app that helps you pick the perfect movie to match your mood. It features a fun movie quiz, search, streaming availability info, and a theatre-style UI."
+  description_jp: "気分に合わせて映画をおすすめするWebアプリ。映画検索・レコメンド機能を実装。"
   image: screenvibe.png
   url: https://screen-vibe.netlify.app
   github: https://github.com/harrygooner1886/ScreenVibe
@@ -15,6 +16,7 @@
 
 - name: Mission Control
   description: "A sci-fi themed to-do app built with vanilla JavaScript, HTML, and CSS. Tasks are saved as 'missions' using localStorage for persistence. Designed with smooth animations and a command-center aesthetic."
+  description_jp: "タスク管理をゲーム感覚で行える、SF風デザインのToDoアプリ。"
   image: Mission_Control_Screenshot.png
   url: https://mission-control-todo-app.netlify.app/
   github: https://github.com/harrygooner1886/mission-control_To-do_App
@@ -28,6 +30,7 @@
 
 - name: PureComm
   description: "PureComm is a couples-communication app designed to make honest talk simple. It helps partners stay connected with daily mood check-ins, love-language insights, and an AI relationship coach that adapts to your communication style."
+  description_jp: "パートナー同士のコミュニケーションを支援するAI搭載アプリ。"
   image: purecomm_picture.png
   url: https://www.purecomm.app/
   github: https://github.com/harrygooner1886/purecomm
@@ -44,6 +47,7 @@
 
 - name: lyric_lab
   description: "AI-powered app that transforms user prompts into original, expressive song lyrics."
+  description_jp: "AIを活用してオリジナル歌詞を生成するWebアプリ。"
   image: Lyric_Lab.png
   github: https://github.com/harrygooner1886/lyric_lab
   online: false

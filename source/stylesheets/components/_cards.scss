@@ -45,7 +45,7 @@
 .card-product h2 {
   font-size: 16px;
   font-weight: bold;
-  margin: 0;
+  margin-bottom: 0.5rem;
 }
 
 .card-product p {
@@ -174,4 +174,27 @@
   background-color: #eef2f7;
   color: #334155;
   border-radius: 50px;
+}
+
+.project-description {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.card-product p {
+  margin: 0;
+  line-height: 1.35;
+}
+
+.card-product .desc-divider {
+  margin: 0.4rem 0;
+  opacity: 0.25;
+}
+
+.project-desc-jp {
+  margin-top: 0.2rem;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  opacity: 0.85;
 }

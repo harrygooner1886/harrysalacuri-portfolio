@@ -21,7 +21,13 @@
                     <% end %>
                   </div>
                 </div>
-                <p><%= project.description %></p>
+                <div class="project-description">
+                  <p class="project-desc"><%= project.description %></p>
+                  <hr class="desc-divider">
+                  <% if project.description_jp %>
+                    <p class="project-desc-jp"><%= project.description_jp %></p>
+                  <% end %>
+                </div>
                 <% if project.stack %>
                   <div class="stack">
                     <% project.stack.each do |tech| %>
